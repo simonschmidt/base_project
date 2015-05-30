@@ -1,0 +1,10 @@
+## Look locally for files
+file_client: local
+
+file_roots:
+  base:
+    - /vagrant/saltstack/states
+
+pillar_roots:
+  base:
+    - /vagrant/saltstack/pillars

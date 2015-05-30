@@ -1,0 +1,4 @@
+# Put requirements in setup.py if you can
+.
+# Optionally:
+# -e .

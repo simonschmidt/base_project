@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+.vagrant
+.log
+venv/
+__pycache__
